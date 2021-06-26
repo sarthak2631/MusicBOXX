@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicBox</string>
+    <string name="song_name">I want it that way</string>
+    <string name="artist_name">Backstreet boys</string>
+
+    <string name="left_time">0:00</string>
+    <string name="right_time">3:50</string>
+</resources>
